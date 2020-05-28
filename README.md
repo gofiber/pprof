@@ -1,3 +1,9 @@
+# PPROF
+
+![Test](https://github.com/gofiber/pprof/workflows/Test/badge.svg)
+![Security](https://github.com/gofiber/pprof/workflows/Security/badge.svg)
+![Linter](https://github.com/gofiber/pprof/workflows/Linter/badge.svg)
+
 Special thanks to [Matthew Lee (@mthli)](https://github.com/mthli)
 
 ### Install
